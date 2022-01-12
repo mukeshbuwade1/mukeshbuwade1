@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mukeshbuwade (MUKESH BUWADE)
-- 👀 I’m frontend (reactjs) developer
+- 👀 I’m frontend (reactNative/reactjs) developer
 - 🌱 I’m currently learning full stack technology (MERN)
 - 💞️ You can collaborate with me 
 - 📫 How to reach me... Write a mail on mukeshbuwade2017@gmail.com
